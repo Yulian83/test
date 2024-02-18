@@ -1,0 +1,16 @@
+1 cat > Pets
+2 cat Pets
+3 cat > PackAnimals
+4 cat Pets PackAnimals > HumanFriends
+5 cat HumanFriends
+6 mv HumanFriends HumanFriends
+7 mkdir MyDir
+8 mv HumanFriends MyDir/
+9 sudo apt-get update
+10 sudo apt-get install mysql-server
+11 sudo dpkg --help
+12 wget wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+13 sudo dpkg -i ./google-chrome-stable_current_amd64.deb
+14 ls -la
+15 history
+16 cat ~/.bash_history > terminal_history.txt
